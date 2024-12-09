@@ -1,0 +1,13 @@
+
+#node.js
+node_modules/
+
+# Mac system files
+.DS_Store
+
+# IDE config files
+.vscode/
+
+# Log files
+*.log
+
